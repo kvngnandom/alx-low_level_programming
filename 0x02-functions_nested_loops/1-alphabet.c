@@ -4,7 +4,6 @@
  * print_alphabet - Entry point
  * Description: print alphabet lowercase
  * Return: Void
- * Author: IanoNjuguna
  */
 
 void print_alphabet(void)
